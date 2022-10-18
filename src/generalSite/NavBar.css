@@ -1,0 +1,16 @@
+ul {
+    display: flex;
+    list-style: none;
+    list-style-position: .5rem;
+}
+.NavList {
+    padding-left: 1rem;
+}
+.Navbar {
+    display: flex;
+    background-color: tan;
+}
+
+.userNav {
+    padding-left: 60%;
+}
